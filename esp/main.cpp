@@ -1,3 +1,4 @@
+// lib do websocket: https://github.com/apenaz/websocket
 #include <Arduino.h>
 #include <SocketIOClient.h>
 #include <WiFiManager.h>
